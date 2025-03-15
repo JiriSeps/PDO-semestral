@@ -10,7 +10,7 @@ Detekce zvukových událostí (**Sound Event Detection, SED**) je klíčovým pr
 
 ## ⚙️ Implementace metod
 
-V této části bude popsán proces **zprovoznění** a **úpravy kódu** jednotlivých metod. Zaměříme se na jejich nastavení, požadavky na knihovny a úpravy pro dosažení správné funkčnosti.
+V této části bude popsán proces **zprovoznění** a **úpravy kódu** jednotlivých metod se zaměřením na jejich nastavení, požadavky na knihovny a úpravy pro dosažení správné funkčnosti.
 
 ### ✅ Hlavní body:
 - 📦 **Instalace požadovaných knihoven**
