@@ -72,7 +72,7 @@ Ukázka správně spuštěné metody, její **výstupy** a vizualizace výsledk�
 - 🛠️ **Navigace skrz metodu**
 - 📈 **Interpretace výsledků**
 
-📌 **Předpokládaný počet slov:** *~150-300*
+📌 **Předpokládaný počet slov:** *~150-300 + screenshoty*
 
 ---
 
