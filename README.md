@@ -18,7 +18,7 @@ V této části bude popsán proces **zprovoznění** a **úpravy kódu** jednot
 - 📂 **Struktura kódu**
 - 🔧 **Možné úpravy pro zlepšení výsledků**
 
-📌 **Předpokládaný počet slov:** *~200-400 + screenshoty*
+📌 **Předpokládaný počet slov:** *~100-400 + screenshoty*
 
 ---
 
@@ -32,7 +32,7 @@ Dataset **DESED** je referenční datová sada pro detekci zvukových událostí
 - 💻 **Požadované místo na disku**
 - (🔍 **Předzpracování dat**)
 
-📌 **Předpokládaný počet slov:** *~200*
+📌 **Předpokládaný počet slov:** *~100-200*
 
 ---
 
@@ -72,7 +72,7 @@ Ukázka správně spuštěné metody, její **výstupy** a vizualizace výsledk�
 - 🛠️ **Navigace skrz metodu**
 - 📈 **Interpretace výsledků**
 
-📌 **Předpokládaný počet slov:** *~150-300 + screenshoty*
+📌 **Předpokládaný počet slov:** *~150-200 + screenshoty*
 
 ---
 
