@@ -45,7 +45,7 @@ V této sekci se podíváme na to, **jakým způsobem lze metody spustit** a jak
 - 💻 **Požadavky na hardware a software**
 - ⚙️ **Konfigurace a parametry**
 
-📌 **Předpokládaný počet slov:** *~200-400 + screenshoty *
+📌 **Předpokládaný počet slov:** *~200-400 + screenshoty*
 
 ---
 
