@@ -4,7 +4,7 @@
 
 Detekce zvukových událostí (**Sound Event Detection, SED**) je klíčovým prvkem v oblasti zvukového zpracování a strojového učení. Tato dokumentace poskytuje **podrobný návod** k implementaci, trénování a testování dvou metod pro detekci zvukových událostí. Součástí bude také popis datasetu **DESED**, konfigurace modelů a ukázky výsledků.
 
-📌 **Předpokládaný počet slov:** *~100-200*
+📌 **Předpokládaný počet slov:** *~100*
 
 ---
 
@@ -18,7 +18,7 @@ V této části bude popsán proces **zprovoznění** a **úpravy kódu** jednot
 - 📂 **Struktura kódu**
 - 🔧 **Možné úpravy pro zlepšení výsledků**
 
-📌 **Předpokládaný počet slov:** *~300-400 + screenshoty*
+📌 **Předpokládaný počet slov:** *~200-400 + screenshoty*
 
 ---
 
@@ -32,7 +32,7 @@ Dataset **DESED** je referenční datová sada pro detekci zvukových událostí
 - 💻 **Požadované místo na disku**
 - (🔍 **Předzpracování dat**)
 
-📌 **Předpokládaný počet slov:** *~300*
+📌 **Předpokládaný počet slov:** *~200*
 
 ---
 
@@ -59,7 +59,7 @@ Podrobný popis procesu **trénování modelů**, včetně vysvětlení parametr
 - 💾 **Ukládání modelu a kontrola průběhu**
 - 🏆 **Správné vyhodnocení výsledků**
 
-📌 **Předpokládaný počet slov:** *~200-300*
+📌 **Předpokládaný počet slov:** *~100-300*
 
 ---
 
