@@ -1,4 +1,4 @@
-#  Detekce zvukových událostí 
+ú#  Detekce zvukových událostí 
 
 ## 🔍 Úvod
 
@@ -18,7 +18,7 @@ V této části bude popsán proces **zprovoznění** a **úpravy kódu** jednot
 - 📂 **Struktura kódu**
 - 🔧 **Možné úpravy pro zlepšení výsledků**
 
-📌 **Předpokládaný počet slov:** *~100-400 + screenshoty*
+📌 **Předpokládaný počet slov:** *~100-400*
 
 ---
 
@@ -45,7 +45,7 @@ V této sekci se podíváme na to, **jakým způsobem lze metody spustit** a jak
 - 💻 **Požadavky na hardware a software**
 - ⚙️ **Konfigurace a parametry**
 
-📌 **Předpokládaný počet slov:** *~200-400 + screenshoty*
+📌 **Předpokládaný počet slov:** *~200-400*
 
 ---
 
